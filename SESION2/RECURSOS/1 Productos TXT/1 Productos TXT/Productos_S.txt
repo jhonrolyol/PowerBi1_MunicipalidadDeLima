@@ -1,0 +1,36 @@
+ProductID,Name,Color,SafetyStockLevel,ListPrice,Size,Weight,ProductLine,ProductSubcategoryID,ProductModelID,SellStartDate,SellEndDate
+707,Sport-100 Helmet Red,Red,4,34.99,,,S ,31,33,2011-05-31 00:00:00,
+708,Sport-100 Helmet Black,Black,4,34.99,,,S ,31,33,2011-05-31 00:00:00,
+711,Sport-100 Helmet Blue,Blue,4,34.99,,,S ,31,33,2011-05-31 00:00:00,
+712,AWC Logo Cap,Multi,4,8.99,,,S ,19,2,2011-05-31 00:00:00,
+713,Long-Sleeve Logo Jersey S,Multi,4,49.99,S,,S ,21,11,2011-05-31 00:00:00,
+714,Long-Sleeve Logo Jersey M,Multi,4,49.99,M,,S ,21,11,2011-05-31 00:00:00,
+715,Long-Sleeve Logo Jersey L,Multi,4,49.99,L,,S ,21,11,2011-05-31 00:00:00,
+716,Long-Sleeve Logo Jersey XL,Multi,4,49.99,XL,,S ,21,11,2011-05-31 00:00:00,
+841,Men's Sports Shorts S,Black,4,59.99,S,,S ,22,13,2012-05-30 00:00:00,2013-05-29 00:00:00
+843,Cable Lock,,4,25,,,S ,34,115,2012-05-30 00:00:00,2013-05-29 00:00:00
+844,Minipump,,4,19.99,,,S ,36,116,2012-05-30 00:00:00,2013-05-29 00:00:00
+849,Men's Sports Shorts M,Black,4,59.99,M,,S ,22,13,2012-05-30 00:00:00,2013-05-29 00:00:00
+850,Men's Sports Shorts L,Black,4,59.99,L,,S ,22,13,2012-05-30 00:00:00,2013-05-29 00:00:00
+851,Men's Sports Shorts XL,Black,4,59.99,XL,,S ,22,13,2012-05-30 00:00:00,2013-05-29 00:00:00
+852,Women's Tights S,Black,4,74.99,S,,S ,24,38,2012-05-30 00:00:00,2013-05-29 00:00:00
+853,Women's Tights M,Black,4,74.99,M,,S ,24,38,2012-05-30 00:00:00,2013-05-29 00:00:00
+854,Women's Tights L,Black,4,74.99,L,,S ,24,38,2012-05-30 00:00:00,2013-05-29 00:00:00
+855,Men's Bib-Shorts S,Multi,4,89.99,S,,S ,18,12,2012-05-30 00:00:00,2013-05-29 00:00:00
+856,Men's Bib-Shorts M,Multi,4,89.99,M,,S ,18,12,2012-05-30 00:00:00,2013-05-29 00:00:00
+857,Men's Bib-Shorts L,Multi,4,89.99,L,,S ,18,12,2012-05-30 00:00:00,2013-05-29 00:00:00
+858,Half-Finger Gloves S,Black,4,24.49,S,,S ,20,4,2012-05-30 00:00:00,
+859,Half-Finger Gloves M,Black,4,24.49,M,,S ,20,4,2012-05-30 00:00:00,
+860,Half-Finger Gloves L,Black,4,24.49,L,,S ,20,4,2012-05-30 00:00:00,
+864,Classic Vest S,Blue,4,63.5,S,,S ,25,1,2013-05-30 00:00:00,
+865,Classic Vest M,Blue,4,63.5,M,,S ,25,1,2013-05-30 00:00:00,
+866,Classic Vest L,Blue,4,63.5,L,,S ,25,1,2013-05-30 00:00:00,
+870,Water Bottle - 30 oz.,,4,4.99,,,S ,28,111,2013-05-30 00:00:00,
+873,Patch Kit/8 Patches,,4,2.29,,,S ,37,114,2013-05-30 00:00:00,
+876,Hitch Rack - 4-Bike,,4,120,,,S ,26,118,2013-05-30 00:00:00,
+877,Bike Wash - Dissolver,,4,7.95,,,S ,29,119,2013-05-30 00:00:00,
+880,Hydration Pack - 70 oz.,Silver,4,54.99,70,,S ,32,107,2013-05-30 00:00:00,
+881,Short-Sleeve Classic Jersey S,Yellow,4,53.99,S,,S ,21,32,2013-05-30 00:00:00,
+882,Short-Sleeve Classic Jersey M,Yellow,4,53.99,M,,S ,21,32,2013-05-30 00:00:00,
+883,Short-Sleeve Classic Jersey L,Yellow,4,53.99,L,,S ,21,32,2013-05-30 00:00:00,
+884,Short-Sleeve Classic Jersey XL,Yellow,4,53.99,XL,,S ,21,32,2013-05-30 00:00:00,
